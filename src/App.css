@@ -1,0 +1,23 @@
+body{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("movies-f.jpg") ;
+}
+
+
+  .App {
+  padding-top: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  
+}
+
+
+
+
+
+
+
+
